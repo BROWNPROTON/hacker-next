@@ -18,7 +18,7 @@ export default () => (
       </div>
     </div>
     <div className="right">
-      <Link prefetch href="/login"><a className="login">login</a></Link>
+     
     </div>
 
     <style jsx>{`
